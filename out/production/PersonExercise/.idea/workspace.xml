@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62204879-e400-4eee-9829-2c41cd4d3b68" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XkUyC7D4dSBYh6aMnGZR6IIfnD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/input/PersonExercise" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="input.PersonExercise.MainClass" />
+      <module name="PersonExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="input.PersonExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PersonExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="input.PersonExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="input.PersonExercise" />
+      <option name="MAIN_CLASS_NAME" value="input.PersonExercise.PersonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="JUnit.PersonTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62204879-e400-4eee-9829-2c41cd4d3b68" name="Default Changelist" comment="" />
+      <created>1581589837191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581589837191</updated>
+      <workItem from="1581589841463" duration="469000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="201" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581590365194">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="360" y="201" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1033@0.23.1792.1033" timestamp="1581590365194" />
+    <state x="600" y="440" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581589876799">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="600" y="440" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1792.1033@0.23.1792.1033" timestamp="1581589876799" />
+    <state x="554" y="175" width="683" height="729" key="find.popup" timestamp="1581589992291">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="554" y="175" width="683" height="729" key="find.popup/0.23.1792.1033@0.23.1792.1033" timestamp="1581589992291" />
+  </component>
+</project>
